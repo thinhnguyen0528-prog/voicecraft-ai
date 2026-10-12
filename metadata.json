@@ -1,0 +1,6 @@
+{
+  "name": "VoiceCraft AI",
+  "description": "A premium text-to-speech studio for Vietnamese and American English, with expressive voice styles, adjustable speech controls and real audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
